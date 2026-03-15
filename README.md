@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Karthikeyen 👋<br>I am a Computer Science Engineering student specializing in IoT. <br>I am passionate about technology, especially in the fields of Python, Machine Learning, IoT, and Blockchain.<br>I enjoy building innovative projects, exploring new technologies, and solving real world problems through software and hardware solutions. <br>Currently, I am focused on learning and developing projects related to AI, IoT systems, and web technologies.</h1>
+<h1 align="left">Hi, I'm Karthikeyen 👋<br>I am a Computer Science Engineering student specializing in IoT. <br>I am passionate about technology, especially in the fields of Python, Machine Learning, IoT.<br>I enjoy building innovative projects, exploring new technologies, and solving real world problems through software and hardware solutions. <br>Currently, I am focused on learning and developing projects related to AI, IoT systems, and web technologies.</h1>
 
 ###
 
